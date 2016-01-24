@@ -1,2 +1,4 @@
 # test-repo
-first repository for Coursera data science class
+My first repository for a Coursera data science class.
+
+I'm totally new to git and gitHub!
